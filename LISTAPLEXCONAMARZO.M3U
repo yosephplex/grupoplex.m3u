@@ -92,10 +92,7 @@ https://raw.githubusercontent.com/yosephplex/grupoplex/master/TV%20GRUPO%20PLEX.
 #EXTBG: https://i.makeagif.com/media/10-30-2015/LzcCxP.gif
 https://dl.dropboxusercontent.com/s/244mkm5efdlvbll/CANALES%20PORNO.M3U?dl=0
 
-#EXTINF:-1,TERROR
-#EXTSIZE: MEDIUM
-#EXTBG: https://media.tenor.com/images/3e1ca59f48902d0b6b620e1cfdab19f0/tenor.gif
-https://dl.dropboxusercontent.com/s/dxak1h64klnpljm/terror.m3u?dl=0
+
 
 
 
@@ -138,7 +135,10 @@ https://dl.dropboxusercontent.com/s/czspb9068thpr6l/INFANTIL.M3U
 https://dl.dropboxusercontent.com/s/84dd9zj61j5yys7/Mdonna%20who%27s%20tha%20girl%20tour.m3u8?dl=0
 
 
-
+#EXTINF:-1,TERROR
+#EXTSIZE: MEDIUM
+#EXTBG: https://media.tenor.com/images/3e1ca59f48902d0b6b620e1cfdab19f0/tenor.gif
+https://dl.dropboxusercontent.com/s/dxak1h64klnpljm/terror.m3u?dl=0
 
 
 
