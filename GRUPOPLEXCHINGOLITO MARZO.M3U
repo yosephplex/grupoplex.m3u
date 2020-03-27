@@ -1,0 +1,169 @@
+#EXTM3U size=“big”              Dig if you will the picture
+
+#EXTINF:-1,CINE FULLHD
+#EXTSIZE: big
+#EXTBG: https://i.gifer.com/origin/c5/c50ad28a7244837b0ab132cc81eadf66_w200.gif
+https://dl.dropboxusercontent.com/s/wvyjevt19ma5giw/CINE%20FULLHD.M3U?dl=0
+
+#EXTINF:-1,ANIME
+#EXTSIZE: BIG
+#EXTBG: https://i.makeagif.com/media/11-25-2014/aeNOg8.gif
+https://raw.githubusercontent.com/yosephplex/plex/master/anime%20ssiptv.m3u
+
+#EXTINF:-1,BLUERAY
+#EXTSIZE: big
+#EXTBG: https://m.gifmania.com.mx/Gifs-Animados-Tecnologia/Gif-Animadas-Informatica/Imagenes-Animadas-Unidades-Almacenamiento/Blu-Ray/Logo-Blu-Ray-89673.gif
+https://raw.githubusercontent.com/yosephplex/cinelatino/master/BLUERAY.m3u
+
+
+#EXTINF:-1,TV ESPAÑA 
+#EXTSIZE: big
+#EXTBG: https://ugc.kn3.net/i/760x/http://a.fod4.com/misc/Cereal%20Purse.gif
+https://dl.dropboxusercontent.com/s/kyw7nhhljf3o8gb/CONTENEDOR%20TV%20ESPA%C3%91A.M3U
+
+#EXTINF:-1,ESTRENOS
+#EXTSIZE: big
+#EXTBG: https://media.giphy.com/media/voPbSIMow2hnW/giphy.gif
+https://raw.githubusercontent.com/yosephplex/cinelatino/master/Estrenos.m3u
+
+#EXTINF:-1,TV GRUPO PLEX
+#EXTSIZE: big
+#EXTBG: https://images.samsung.com/is/content/samsung/p5/cl/support/tv-audio-video/samsung-tv-how-to-tune-tdt-channels-in-k-models/samsung-tv-how-to-tune-tdt-channels-in-k-models_2.gif?$ORIGIN_GIF$
+https://raw.githubusercontent.com/yosephplex/grupoplex/master/TV%20GRUPO%20PLEX.M3U
+
+
+
+#EXTINF:-1,NETFLIX
+#EXTSIZE: big
+#EXTBG: https://i.makeagif.com/media/6-21-2015/h3FwPi.gif
+https://raw.githubusercontent.com/yosephplex/netflix/master/NETFLIXLISTANUEVA.M3U
+
+#EXTINF:-1,PELICULAS
+#EXTSIZE: big
+#EXTBG: https://media.tenor.com/images/cae8e7b7c9543ea5038fd8d5d159481a/tenor.gif
+https://dl.dropboxusercontent.com/s/pap3nsasupr3409/Peliculas.m3u?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zsrMTKDEa5Q/hqdefault.jpg",ADULTOS
+#EXTSIZE: MEDIUM
+#EXTBG: https://i.ytimg.com/vi/3AMOPAS9FAE/hqdefault.jpg
+https://dl.dropboxusercontent.com/s/60chp0j7s8ow822/XXX.m3u?dl=0
+
+
+#EXTINF:-1,MADONNA EN CONCIERTO
+#EXTSIZE: MEDIUM
+#EXTBG:  http://24.media.tumblr.com/5bffd68b631c6c3dc68ca3c8ebc4105c/tumblr_mtj2wnQpBX1rxml8no8_250.gif
+https://dl.dropboxusercontent.com/s/84dd9zj61j5yys7/Mdonna%20who%27s%20tha%20girl%20tour.m3u8?dl=0
+
+
+#EXTINF:-1,PELICULAS 2
+#EXTSIZE: MEDIUM
+#EXTBG: https://media2.giphy.com/media/10DzSwY9Evk6T6/200w.gif
+http://usuarios.club/usuarios/movies/julio/julio.m3u
+
+#EXTINF:-1,PELICULAS POCOS MEGAS
+#EXTSIZE: MEDIUM
+#EXTBG: http://2.bp.blogspot.com/-He7StBsNHbM/UAmSV3gUb8I/AAAAAAAANFY/2C0V8cmIo1c/s400/batman.gif
+https://dl.dropboxusercontent.com/s/x7jf2b9gxs2tl1i/Pelicvulas%20SD%2C%20pocos%20megas.m3u?dl=0
+
+#EXTINF:-1,SERIES GRUPO PLEX
+#EXTSIZE: BIG
+#EXTBG: http://images6.fanpop.com/image/photos/39500000/Taylos-Swift-Apple-Music-Commercial-taylor-swift-39521641-245-210.gif
+https://dl.dropboxusercontent.com/s/vc5w8a5ti5vmnut/SERIES%20OCTUBRE.M3U?dl=0
+
+
+
+
+
+
+
+#EXTINF:-1,HALLOWEEN
+#EXTSIZE: big
+#EXTBG: https://i.pinimg.com/originals/05/89/a6/0589a6dc536f9cf82fc5103661be14f7.gif
+https://raw.githubusercontent.com/yosephplex/cinelatino/master/terror%20ssiptv.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PELICULAS
+#EXTSIZE: big
+#EXTBG: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AADRog8.img?h=206&w=320&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1072&y=573
+https://dl.dropboxusercontent.com/s/r5grhre3tpw1deb/ordenar%20peliculas.m3u?dl=0
+
+#EXTINF:-1,CINE CALIDAD
+#EXTSIZE: big
+#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwzUjzGtLC-r2Yd8yqEydc2ewqGyZMTuYs9oeLiSq5YgNbvgj
+https://dl.dropboxusercontent.com/s/m5vrm6vsr8d6e1n/peliculas%20y%20tv.m3u?dl=0
+
+#EXTINF:-1,CLASSIC PROYECT
+#EXTSIZE: big
+#EXTBG: https://previews.123rf.com/images/stuartphoto/stuartphoto1701/stuartphoto170100339/68830750-canales-de-m%C3%BAsica-notas-de-ecualizador-significa-canciones-de-radio-y-transmisi%C3%B3n.jpg
+https://dl.dropboxusercontent.com/s/0dx8zats2mpm0jp/VIDEO%27s%20PARTIES.m3u?dl=0
+
+
+
+#EXTINF:-1,PLAYBOY TV-COD 0000
+#EXTSIZE: big
+#EXTBG: https://i.makeagif.com/media/10-30-2015/LzcCxP.gif
+https://dl.dropboxusercontent.com/s/244mkm5efdlvbll/CANALES%20PORNO.M3U?dl=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Adultos 2
+#EXTSIZE: big
+#EXTBG: https://static.vix.com/es/sites/default/files/btg/tumblr_maapryjsjk1qkg5u5o1_400.gif
+https://dl.dropboxusercontent.com/s/60chp0j7s8ow822/XXX.m3u?dl=0
+
+
+
+
+
+
+#EXTINF:-1,TERROR
+#EXTSIZE: big
+#EXTBG: https://media.tenor.com/images/3e1ca59f48902d0b6b620e1cfdab19f0/tenor.gif
+https://dl.dropboxusercontent.com/s/dxak1h64klnpljm/terror.m3u?dl=0
+
+
+
+#EXTINF:-1,MUSICA
+#EXTSIZE: BIG
+#EXTBG: http://www.gifss.es/musica/altavoces/altavoces.gif
+https://dl.dropboxusercontent.com/s/qi76hbn32eowb23/MUSICA%20IPTV.m3u?dl=0
+
+
+#EXTINF:-1,Documentales
+#EXTSIZE: MEDIUM
+#EXTBG: https://farmacon.files.wordpress.com/2008/10/documentales.jpeg?w=639
+https://dl.dropboxusercontent.com/s/z2o531wvh4xi2tq/documentales.m3u?dl=0
