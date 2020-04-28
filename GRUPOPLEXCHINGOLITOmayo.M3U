@@ -33,10 +33,7 @@ https://raw.githubusercontent.com/yosephplex/grupoplex/master/TV%20GRUPO%20PLEX.
 
 
 
-#EXTINF:-1,NETFLIX
-#EXTSIZE: big
-#EXTBG: https://i.makeagif.com/media/6-21-2015/h3FwPi.gif
-https://raw.githubusercontent.com/yosephplex/netflix/master/NETFLIXLISTANUEVA.M3U
+
 
 #EXTINF:-1,PELICULAS
 #EXTSIZE: big
