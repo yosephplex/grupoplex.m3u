@@ -34,10 +34,7 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/prmiumtvcona.m3u
 https://raw.githubusercontent.com/yosephplex/cinelatino/master/terror%20ssiptv.m3u
 
 
-#EXTINF:-1,NETFLIX
-#EXTSIZE: big
-#EXTBG: https://indicepolitico.com/wp-content/uploads/2018/12/tenor.gif
-https://raw.githubusercontent.com/yosephplex/netflix/master/NETFLIXLISTANUEVA.M3U
+#
 
 #EXTINF:-1,PELICULAS PLEXCONA
 #EXTSIZE: big
