@@ -46,7 +46,10 @@ https://dl.dropboxusercontent.com/s/pap3nsasupr3409/Peliculas.m3u?dl=0
 #EXTBG: http://images6.fanpop.com/image/photos/39500000/Taylos-Swift-Apple-Music-Commercial-taylor-swift-39521641-245-210.gif
 https://dl.dropboxusercontent.com/s/vc5w8a5ti5vmnut/SERIES%20OCTUBRE.M3U?dl=0
 
-
+#EXTINF:-1,TV ESPAÑA 
+#EXTSIZE: big
+#EXTBG: https://www.gifanimados.com/Gifs-Peliculas-Cine/Animaciones-Actrices/Penelope-Cruz/Penelope-Cruz-Llorando-73761.gif
+https://raw.githubusercontent.com/yosephplex/CINE-EN-CASTELLANO/master/CONTENEDOR%20TVESPANA.M3U
 
 #EXTINF:-1,CLASSIC PROYECT
 #EXTSIZE: MEDIUM
@@ -71,10 +74,7 @@ https://dl.dropboxusercontent.com/s/zo9br96pjvg7onp/contenedor%20series.m3u?dl=0
 
 
 
-#EXTINF:-1,TV ESPAÑA 
-#EXTSIZE: big
-#EXTBG: https://www.gifanimados.com/Gifs-Peliculas-Cine/Animaciones-Actrices/Penelope-Cruz/Penelope-Cruz-Llorando-73761.gif
-https://raw.githubusercontent.com/yosephplex/CINE-EN-CASTELLANO/master/CONTENEDOR%20TVESPANA.M3U
+
 
 #EXTINF:-1,TV GRUPO PLEX
 #EXTSIZE: big
