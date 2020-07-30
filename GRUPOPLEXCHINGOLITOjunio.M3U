@@ -31,6 +31,10 @@ https://raw.githubusercontent.com/yosephplex/cinelatino/master/Estrenos.m3u
 #EXTBG: https://images.samsung.com/is/content/samsung/p5/cl/support/tv-audio-video/samsung-tv-how-to-tune-tdt-channels-in-k-models/samsung-tv-how-to-tune-tdt-channels-in-k-models_2.gif?$ORIGIN_GIF$
 https://raw.githubusercontent.com/yosephplex/grupoplex/master/TV%20GRUPO%20PLEX.M3U
 
+#EXTINF:-1,DEPORTES CARLOS
+#EXTSIZE: big
+#EXTBG: https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg
+https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3U
 
 #EXTINF:-1,SERIES GRUPO PLEX
 #EXTSIZE: BIG
@@ -39,7 +43,7 @@ https://dl.dropboxusercontent.com/s/vc5w8a5ti5vmnut/SERIES%20OCTUBRE.M3U?dl=0
 
 
 #EXTINF:-1,MUSICA
-#EXTSIZE: BIG
+#EXTSIZE: MEDIUM
 #EXTBG: http://www.gifss.es/musica/altavoces/altavoces.gif
 https://dl.dropboxusercontent.com/s/qi76hbn32eowb23/MUSICA%20IPTV.m3u?dl=0
 
