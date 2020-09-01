@@ -1,9 +1,6 @@
 #EXTM3U size=“big”              Dig if you will the picture
 
-#EXTINF:-1,CINE FULLHD
-#EXTSIZE: big
-#EXTBG: https://i.gifer.com/origin/c5/c50ad28a7244837b0ab132cc81eadf66_w200.gif
-https://raw.githubusercontent.com/pablolara01/Netflix.m3u/master/Netflix.1.m3u
+
 
 #EXTINF:-1,ANIME
 #EXTSIZE: BIG
